@@ -12,9 +12,9 @@ The model is a deep neural network consists of an input layer (concatenation of 
 
 <p align="center">
 <img width="100%" src="model_plot.png" alt="The architecture of the proposed model">
-
-Figure 1: The architecture of the proposed model.
 </p>
+
+<p align="center">Figure 1: The architecture of the proposed model.</p>
 
 
 ## Experiments and results
