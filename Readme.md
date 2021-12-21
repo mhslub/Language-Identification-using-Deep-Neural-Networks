@@ -11,7 +11,7 @@ Sentences were statistically analyzed to extract two bags of features. For the f
 The model is a deep neural network consists of an input layer (concatenation of two inputs), three hidden layers and an output layer with softmax activation. Figure 1 shows the architecture of the model. Feature vectors of sentence from dif_group and same_group are passed separately as input to the model. The output layer calculates the probability distributions of each sentence over the target languages (three languages for each group). Sentences are then mapped to the language with the maximum probability. 
 
 <p align="center">
-<img width="200" src="model_plot.png" alt="The architecture of the proposed model">
+<img width="100%" src="model_plot.png" alt="The architecture of the proposed model">
 
 Figure 1: The architecture of the proposed model.
 </p>
